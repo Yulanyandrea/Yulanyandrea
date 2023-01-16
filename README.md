@@ -22,7 +22,6 @@
 - 👯 I’m looking to collaborate on music projects 
 - 🤔 I’m looking for help with Redux Toolki
 - 💬 Ask me about music, sound design and create apps to manipulate audio 
-- 📫 How to reach me: @yulany_12
 - 😄 Pronouns: Julany
 - ⚡ Fun fact: when I was younger I really hate programming 
 

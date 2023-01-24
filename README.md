@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on JyK sports that is an app based on a smart database and interactive interface on React
 - 🌱 I’m currently learning Javascript and React 
 - 👯 I’m looking to collaborate on music projects 
-- 🤔 I’m looking for help with Redux Toolki
+- 🤔 I’m looking for help with Redux Toolkit
 - 💬 Ask me about music, sound design and create apps to manipulate audio 
 - 😄 Pronouns: Julany
 - ⚡ Fun fact: when I was younger I really hate programming 

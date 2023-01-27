@@ -1,4 +1,4 @@
-### Hi there I am Yulany and I love to develop focus on music and sound engineer👋  
+### Hi there I am Yulany and I love  developing software. I want to learn coding focus on music projects 
 <div id="header" align="center"> <img src="https://media.giphy.com/media/ZgPRqAT6qdUCk13ZCC/giphy.gif" width="100"/>
 </div>
 

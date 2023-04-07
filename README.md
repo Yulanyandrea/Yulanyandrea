@@ -23,28 +23,16 @@
 - 🤔 I’m looking for help with Redux Toolkit
 - 💬 Ask me about music, sound design and create apps to manipulate audio 
 - 😄 Pronouns: Julany
-- ⚡ Fun fact: when I was younger I really hate programming 
-
-
-<div style="display: flex;">
-  <section style="flex: 1;">
+- ⚡ Fun fact: when I was younger I really hate programming            
+ <img src="https://media.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif" width="200"/> 
+   
     
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yulanyandrea&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yulanyandrea&theme=dracula)](https://git.io/streak-stats)    
 
-![Yula's GitHub stats](https://github-readme-stats.vercel.app/api?username=yulanyandrea&show_icons=true&theme=radical) 
+![Yula's GitHub stats](https://github-readme-stats.vercel.app/api?username=yulanyandrea&show_icons=true&theme=radical)                  <img src="https://media.giphy.com/media/iMRDfs0Y4DyFgHiNhs/giphy.gif" width="150"/> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yulanyandrea&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  </section>
-  <section style="text-align: right;">
-    <div id="back" style="position: absolute; top: 100px; right: 10px;">
-        <div id="back" align="right" style="text-align: right; position: absolute; top: 10px; right: 10px;"> <img src="https://media.giphy.com/media/iMRDfs0Y4DyFgHiNhs/giphy.gif" width="300"/>
-    </div>
-    </div>
-  </section>
-</div>
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yulanyandrea&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)    <img src="https://media.giphy.com/media/mS6uPUhffZEYSBBmzx/giphy.gif" width="200"></img>
+ 
 
 
 

@@ -1,6 +1,6 @@
 <div id="header" style="display: flex; align-items: left;">
  
-  <h2 style="margin: 0;"> <img src="https://media.giphy.com/media/ZgPRqAT6qdUCk13ZCC/giphy.gif" width="80" style="margin-right: 10px;">Hi there I am Yulany and I love developing software. I want to learn coding focus on music projects</h2>
+  <h2 style="margin: 0;"> <img src="https://media.giphy.com/media/ZgPRqAT6qdUCk13ZCC/giphy.gif" width="80" style="margin-right: 10px;">Hi there I am Yulany and I love developing software </h2>
 </div>
  
 

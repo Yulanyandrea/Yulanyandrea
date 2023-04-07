@@ -7,17 +7,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="80%"  />
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/yulany-andrea-mun%C3%A9var-romero-87582a22b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCeTVV9jqizLmYUGNNct1N5Q">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.instagram.com/eunoia_sound/?hl=es-la">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+ 
 </div>
 
 - 🔭 I’m currently working on JyK sports that is an app based on a smart database and interactive interface on React

@@ -27,10 +27,10 @@
 - 💬 Ask me about music, sound design and create apps to manipulate audio 
 - 😄 Pronouns: Julany
 - ⚡ Fun fact: when I was younger I really hate programming            
- <img src="https://media.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif" width="200"/> 
+
    
     
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yulanyandrea&theme=dracula)](https://git.io/streak-stats)    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yulanyandrea&theme=dracula)](https://git.io/streak-stats)     <img src="https://media.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif" width="200"/> 
 
 ![Yula's GitHub stats](https://github-readme-stats.vercel.app/api?username=yulanyandrea&show_icons=true&theme=radical)                 
 

@@ -20,11 +20,10 @@
 
    
     
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yulanyandrea&theme=dracula)](https://git.io/streak-stats)     <img src="https://media.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif" width="200"/> 
 
-![Yula's GitHub stats](https://github-readme-stats.vercel.app/api?username=yulanyandrea&show_icons=true&theme=radical)                 
+               
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yulanyandrea&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)    <img src="https://media.giphy.com/media/mS6uPUhffZEYSBBmzx/giphy.gif" width="200"></img>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yulanyandrea&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  <img src="https://media.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif" width="200"/>    <img src="https://media.giphy.com/media/mS6uPUhffZEYSBBmzx/giphy.gif" width="200"></img>
  
 
 
